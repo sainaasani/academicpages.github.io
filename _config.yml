@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "http://www.cs.toronto.edu/~saina/saina.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Toronto, Ontario, Canada."
   employer         :
